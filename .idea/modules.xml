@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sales-invoice-generator-master/SIG.iml" filepath="$PROJECT_DIR$/sales-invoice-generator-master/SIG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sales Invoice Generator.iml" filepath="$PROJECT_DIR$/.idea/Sales Invoice Generator.iml" />
+    </modules>
+  </component>
+</project>
